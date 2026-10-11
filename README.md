@@ -3,7 +3,7 @@ avi@arch:~$ ./welcome.sh
 ```
 
 ```console
-QA Automation Engineer @ Qubika · learning Rust & Python
+QA Automation Engineer @ Qubika
 Homelab and infrastructure enthusiast
 Open source contributor - upstream PRs and AUR packages
 Montevideo, UY · any pronouns
